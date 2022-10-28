@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Ampack",
   tagline: "一款时尚的移动端react研发框架",
-  url: "https://ameng404.github.io/ampack-website/",
+  url: "https://ameng404.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
