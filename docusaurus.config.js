@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Ampack",
   tagline: "一款时尚的移动端react研发框架",
-  url: "https://ampack.iameng.cn",
+  url: "https://ameng404.github.io/ampack-website/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -13,8 +13,8 @@ module.exports = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "ameng", // Usually your GitHub org/user name.
-  projectName: "ampack", // Usually your repo name.
+  organizationName: "ameng404", // Usually your GitHub org/user name.
+  projectName: "ampack-website", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
